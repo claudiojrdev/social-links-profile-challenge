@@ -14,25 +14,23 @@ body{
     font-family: 'Inter';
     color: white;
     padding: 50px;
-}
-
-main{
     display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
+    flex-direction: column;
 }
 
-.container{
+
+main{
     display: flex;
     align-items: center;
     flex-direction: column;
     background-color: hsl(0, 0%, 12%);
     padding: 24px;
-    height: 70%;
-    max-height: 100vh;
     border: none;
     border-radius: 12px;
+    margin-bottom: 50px;
 }
 
 .profile{
@@ -81,6 +79,7 @@ p, a {
 
 .link a {
     background-color: hsl(0, 0%, 20%);
+    margin: 8px;
     color: white;
     padding: 16px;
     width: 100%;
