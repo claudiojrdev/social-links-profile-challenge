@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/claudiojrdev/social-links-profile-challenge)
-- Live Site URL: [Add live site URL here](https://social-links-profile-challenge-rose.vercel.app/)
+- Solution URL: [https://github.com/claudiojrdev/social-links-profile-challenge]
+- Live Site URL: [https://social-links-profile-challenge-rose.vercel.app/]
 
 ## My process
 
